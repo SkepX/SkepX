@@ -41,9 +41,6 @@
 <!-- GitHub Stats -->
 <div style="width: 100%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="SkepX's github stats"  />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkepX&layout=compact&theme=dark" height="150"/>
-
 </div>
 
 <br>
