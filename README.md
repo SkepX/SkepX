@@ -14,7 +14,7 @@
 </tr>
 
 <tr>
-<td>✅ Reconnaisance</td>
+<td>✅ Reconnaissance</td>
 <td>✅ Nmap</td>
 <td>✅ Metasploit</td>
 <td>✅ HTML5</td>
