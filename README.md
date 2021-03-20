@@ -24,7 +24,7 @@
 <td>✅ Vulnb Scanning</td>
 <td>✅ Burp Suite</td>
 <td>✅ byob</td>
-<td>✅ CSS</td>
+<td>✅ CSS3/SASS</td>
 </tr>
 
 <tr>
