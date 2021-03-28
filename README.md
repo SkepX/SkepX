@@ -40,8 +40,16 @@
 
 <!-- GitHub Stats -->
 
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&theme=radical"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkepX&exclude_repo=SkepX.github.io&show_icons=true&theme=radical">
+<!-- GitHub Stats -->
+<div style="width: 100%;">
+<a href="https://hackpuntes.com" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="SkepX's github stats"  />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkepX&layout=compact&theme=dark" height="150"/>
+</a>
+</div>
 
 <br>
 
