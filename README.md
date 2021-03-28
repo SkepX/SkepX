@@ -54,7 +54,7 @@
 <img src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/handshake.gif" width="75px">
 -->
 <a href="https://twitter.com/skepticus_x" target="_blank"><img height="25" src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/twitter.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="25" src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adnan-khan-x/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/SkepX" target="_blank"><img height="25" src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/github.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img height="25" src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/htb.png"></a>&nbsp;&nbsp;&nbsp;
 </div>
