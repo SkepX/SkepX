@@ -39,11 +39,9 @@
 </div>
 
 <!-- GitHub Stats -->
-<div style="width: 100%;">
 
 <img height='200px' src="https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&theme=radical"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkepX&exclude_repo=SkepX.github.io&show_icons=true&theme=radical">
 
-</div>
 
 <br>
 
