@@ -40,9 +40,8 @@
 
 <!-- GitHub Stats -->
 <div style="width: 100%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&include_all_commits=true&theme=dark" height="150" alt="SkepX's github stats"  />
-  
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=zshashz&show_icons=true&theme=radical"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshashz&exclude_repo=zshashz.github.io&show_icons=true&theme=radical">
+
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&theme=radical"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkepX&exclude_repo=SkepX.github.io&show_icons=true&theme=radical">
 
 </div>
 
