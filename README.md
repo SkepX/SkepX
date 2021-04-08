@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/developer.gif" width="100px">
-<h2><img src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/hi.gif" width="25px"> Hey! I'm <a href="https://github.com/SkepX/" target="_blank">Adnan Khan</a>, a Blockchain, Cybersecurity and AI enthusiast</h2>
+<h2><img src="https://raw.githubusercontent.com/SkepX/SkepX/main/img/hi.gif" width="25px"> Hey! I'm <a href="https://www.linkedin.com/in/adnan-khan-x/" target="_blank">Adnan Khan</a>, a Blockchain, Cybersecurity and AI enthusiast</h2>
 <!-- About me -->
 <!-- Languages-->
 <div style="width: 100%;">
