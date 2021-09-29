@@ -1,4 +1,5 @@
 ### Hi there, I'm [Adnan Khan!](https://twitter.com/skepticus_x) 👋
+A CyberSec, Blockchain and AI/ML enthusiast
 
 <p>
 <a href="https://twitter.com/skepticus_x">
