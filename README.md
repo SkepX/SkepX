@@ -10,12 +10,13 @@ A CyberSec, Blockchain and AI/ML enthusiast
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <p/>
-
+<br>
 <p>
 
-- 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in)
-- 🌱 Penetration testing Intern at Virtually Testing foundation
+- 🔭 I’m currently working on a [blockchain project] on Cardano(https://github.com/deqree-in)
+- 💻 Penetration testing Intern at Virtually Testing foundation
 - 💬 Cyber Security Ex-Intern at GPCSSI'21
+- 👨‍💻 Plutus Pioneer at InputOutput HK
 - 📫 How to reach me: [@skepticus_x](https://twitter.com/skepticus_x)
 
 </p>
