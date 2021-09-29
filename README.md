@@ -11,9 +11,7 @@ A CyberSec, Blockchain and AI/ML enthusiast
 </a>
 <p/>
 <br>
-[![GitHub stars](https://badgen.net/github/stars/SkepX/Strapdown.js)](https://GitHub.com/SkepX/StrapDown.js/stargazers/)
 
-<br>
 <p>
 
 - 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in) on Cardano
