@@ -11,6 +11,9 @@ A CyberSec, Blockchain and AI/ML enthusiast
 </a>
 <p/>
 <br>
+[![GitHub forks](https://img.shields.io/github/forks/SkepX/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/SkepX/StrapDown.js/network/)
+
+<br>
 <p>
 
 - 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in) on Cardano
