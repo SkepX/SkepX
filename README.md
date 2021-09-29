@@ -12,10 +12,12 @@ A CyberSec, Blockchain and AI/ML enthusiast
 <p/>
 
 <br/>
+<br>
+<br>
 <p>
 
 - 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in)
-- 🌱 Penetration testing Intern at Virtual Testing foundation
+- 🌱 Penetration testing Intern at Virtually Testing foundation
 - 💬 Cyber Security Ex-Intern at GPCSSI'21
 - 📫 How to reach me: [@skepticus_x](https://twitter.com/skepticus_x)
 
