@@ -11,9 +11,6 @@ A CyberSec, Blockchain and AI/ML enthusiast
 </a>
 <p/>
 
-<br/>
-<br>
-<br>
 <p>
 
 - 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in)
@@ -22,6 +19,8 @@ A CyberSec, Blockchain and AI/ML enthusiast
 - 📫 How to reach me: [@skepticus_x](https://twitter.com/skepticus_x)
 
 </p>
+<br/>
+
 
 ![Adnan Khan's Github Stats](https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&include_all_commits=true&&theme=radical)
 
