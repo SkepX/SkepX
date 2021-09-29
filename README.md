@@ -11,7 +11,8 @@ A CyberSec, Blockchain and AI/ML enthusiast
 </a>
 <p/>
 <br>
-
+![](https://visitor-badge.glitch.me/badge?page_id=SkepX.SkepX)
+<br>
 <p>
 
 - 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in) on Cardano
