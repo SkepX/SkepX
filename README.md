@@ -11,7 +11,7 @@ A CyberSec, Blockchain and AI/ML enthusiast
 </a>
 <p/>
 <br>
-[![GitHub forks](https://img.shields.io/github/forks/SkepX/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/SkepX/StrapDown.js/network/)
+[![GitHub stars](https://badgen.net/github/stars/SkepX/Strapdown.js)](https://GitHub.com/SkepX/StrapDown.js/stargazers/)
 
 <br>
 <p>
