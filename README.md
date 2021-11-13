@@ -13,7 +13,7 @@ A CyberSec, Blockchain and AI/ML enthusiast
 <br>
 <p>
 
-- 🔭 I’m currently working on a [blockchain project](https://github.com/deqree-in) on Cardano
+- 🔭 I’m currently working on several blockchain projects on Cardano
 - 💻 Penetration testing Intern at Virtually Testing foundation
 - 💬 Cyber Security Ex-Intern at GPCSSI'21
 - 👨‍💻 Plutus Pioneer at InputOutput HK
