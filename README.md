@@ -10,7 +10,7 @@ A CyberSec, Blockchain and AI/ML enthusiast
 <br>
 <p>
 
-- 🔭 I’m currently working on several blockchain projects on Cardano
+- 🔭 Co-founder of Rarety.io and Skryptlabs.org
 - 💻 Ex-Penetration testing Intern at Virtually Testing foundation
 - 💬 Cyber Security Ex-Intern at GPCSSI'21
 - 👨‍💻 Plutus Pioneer at InputOutput HK
