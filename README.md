@@ -10,6 +10,8 @@ A CyberSec, Blockchain and AI/ML enthusiast
 <br>
 <p>
 
+- 🔭 Co-founder of Skryptlabs.org
+- 🚀 Product and Tech Lead Rarety.io
 - 💻 Ex-Penetration testing Intern at Virtually Testing foundation
 - 💬 Cyber Security Ex-Intern at GPCSSI'21
 - 👨‍💻 Plutus Pioneer at InputOutput HK
