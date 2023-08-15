@@ -11,9 +11,6 @@
 
 <br/>
 
-
-![Adnan Khan's Github Stats](https://github-readme-stats.vercel.app/api?username=SkepX&show_icons=true&include_all_commits=true&&theme=radical)
-
 ![Adnan Khan's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SkepX&layout=compact&theme=radical)
 
 
