@@ -1,5 +1,5 @@
 ### Hi there, I'm [Adnan Khan!](https://twitter.com/skepticus_x) 👋
-A CyberSec, Blockchain and AI/ML enthusiast
+🔬 Head of Research at Levitate Labs
 
 <p>
 
@@ -8,13 +8,7 @@ A CyberSec, Blockchain and AI/ML enthusiast
 </a>
 <p/>
 <br>
-<p>
 
-- 🚀 Research and IO at GravityX Capital
-- 💬 Cyber Security Ex-Intern at GPCSSI'21
-- 👨‍💻 Plutus Pioneer (InputOutput HK)
-
-</p>
 <br/>
 
 
